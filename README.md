@@ -1,0 +1,2 @@
+# NEURAL-NETWORKS-TECNOLOGIES-2025-2026
+Here are conspects from neural networks tecnologies classes
